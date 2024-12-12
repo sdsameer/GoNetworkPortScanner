@@ -13,10 +13,13 @@ A simple and efficient network port scanner written in Go. This tool scans a ran
 ## Usage
 Clone the repository:
    git clone https://github.com/sdsameer/GoNetworkPortScanner.git
+   
    cd NetworkPortScanner
+
 Run the scanner:
 
 go run *.go
+
 Enter the required details:
 
 Target IP address or domain (e.g., 127.0.0.1 or scanme.nmap.org).
