@@ -27,5 +27,5 @@ Starting and ending ports (e.g., 20 and 100).
 View the results: Open ports will be displayed in the terminal.
 
 
-Contributing
+
 Feel free to fork this repository and submit pull requests for enhancements or bug fixes.
