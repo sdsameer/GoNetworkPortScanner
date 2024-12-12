@@ -12,7 +12,7 @@ A simple and efficient network port scanner written in Go. This tool scans a ran
 
 ## Usage
 Clone the repository:
-   git clone https://github.com/yourusername/NetworkPortScanner.git
+   git clone https://github.com/sdsameer/NetworkPortScanner.git
    cd NetworkPortScanner
 Run the scanner:
 
